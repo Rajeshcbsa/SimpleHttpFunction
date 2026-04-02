@@ -1,0 +1,9 @@
+.git*
+.vscode\
+local.settings.json
+bin\
+obj\
+__pycache__\
+.DS_Store
+*.user
+*.tmp
